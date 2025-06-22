@@ -8,14 +8,20 @@ Operating under the UKPBJ (Unit Kerja Pengadaan Barang/Jasa) of Hulu Sungai Sela
 
 ## About Us
 
-We are a team of passionate developers, engineers, and digital enthusiasts dedicated to empowering local businesses, government services, and communities through technology. Our projects range from marketplace platforms, public service applications, to custom internal tools designed to improve operational efficiency.
+We are a team of passionate developers, engineers, and digital enthusiasts committed to empowering local businesses, government services, and communities through technology. Our projects range from marketplace platforms and public service applications to custom internal tools designed to improve operational efficiency.
+
+---
+
+## Repository Information
+
+Most of the repositories under this organization are **private**, due to confidentiality and security reasons. The **public repositories** you find here are primarily forks of external projects or libraries that support our internal development needs.
 
 ---
 
 ## Our Key Projects
 
 - **[SIOPEN Marketplace](https://siopen.hulusungaiselatankab.go.id)**  
-  A government-backed marketplace platform empowering UMKM to transact exclusively with government agencies, free of transaction fees and advertising costs.
+  A government-backed marketplace platform empowering UMKM to transact exclusively with government agencies, free from transaction fees and advertising costs.
 
 ---
 
@@ -27,6 +33,8 @@ We welcome contributions! To get started:
 2. Read the contribution guidelines (usually found in each repo’s `CONTRIBUTING.md`).
 3. Open issues or pull requests with your ideas and improvements.
 4. Join our community discussions for support and collaboration.
+
+*Note: Contribution access may vary depending on repository privacy settings.*
 
 ---
 
